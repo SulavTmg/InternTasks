@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\bin\Debug\net7.0\FunctionComposition.exe
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\bin\Debug\net7.0\FunctionComposition.deps.json
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\bin\Debug\net7.0\FunctionComposition.runtimeconfig.json
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\bin\Debug\net7.0\FunctionComposition.dll
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\bin\Debug\net7.0\FunctionComposition.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\FunctionComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\FunctionComposition.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\FunctionComposition.AssemblyInfo.cs
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\FunctionComposition.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\FunctionComposition.dll
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\refint\FunctionComposition.dll
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\FunctionComposition.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\FunctionComposition.genruntimeconfig.cache
+C:\Users\dell\source\repos\FunctionalProgramming\FunctionComposition\obj\Debug\net7.0\ref\FunctionComposition.dll

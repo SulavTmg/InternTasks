@@ -1,0 +1,14 @@
+C:\C#\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunctions.exe
+C:\C#\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunctions.deps.json
+C:\C#\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunctions.runtimeconfig.json
+C:\C#\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunctions.dll
+C:\C#\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunctions.pdb
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunctions.AssemblyInfoInputs.cache
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunctions.AssemblyInfo.cs
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunctions.csproj.CoreCompileInputs.cache
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunctions.dll
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\refint\PureFunctions.dll
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunctions.pdb
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunctions.genruntimeconfig.cache
+C:\C#\FunctionalProgramming\PureFunction\obj\Debug\net7.0\ref\PureFunctions.dll

@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunction.exe
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunction.deps.json
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunction.runtimeconfig.json
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunction.dll
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\bin\Debug\net7.0\PureFunction.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunction.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunction.AssemblyInfo.cs
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunction.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunction.dll
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\refint\PureFunction.dll
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunction.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\PureFunction.genruntimeconfig.cache
+C:\Users\dell\source\repos\FunctionalProgramming\PureFunction\obj\Debug\net7.0\ref\PureFunction.dll

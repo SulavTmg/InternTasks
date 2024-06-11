@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\bin\Debug\net7.0\Immutability.exe
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\bin\Debug\net7.0\Immutability.deps.json
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\bin\Debug\net7.0\Immutability.runtimeconfig.json
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\bin\Debug\net7.0\Immutability.dll
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\bin\Debug\net7.0\Immutability.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\Immutability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\Immutability.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\Immutability.AssemblyInfo.cs
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\Immutability.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\Immutability.dll
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\refint\Immutability.dll
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\Immutability.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\Immutability.genruntimeconfig.cache
+C:\Users\dell\source\repos\FunctionalProgramming\Immutability\obj\Debug\net7.0\ref\Immutability.dll

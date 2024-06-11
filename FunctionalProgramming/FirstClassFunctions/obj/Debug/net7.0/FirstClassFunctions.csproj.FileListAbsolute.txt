@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\bin\Debug\net7.0\FirstClassFunctions.exe
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\bin\Debug\net7.0\FirstClassFunctions.deps.json
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\bin\Debug\net7.0\FirstClassFunctions.runtimeconfig.json
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\bin\Debug\net7.0\FirstClassFunctions.dll
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\bin\Debug\net7.0\FirstClassFunctions.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\FirstClassFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\FirstClassFunctions.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\FirstClassFunctions.AssemblyInfo.cs
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\FirstClassFunctions.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\FirstClassFunctions.dll
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\refint\FirstClassFunctions.dll
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\FirstClassFunctions.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\FirstClassFunctions.genruntimeconfig.cache
+C:\Users\dell\source\repos\FunctionalProgramming\FirstClassFunctions\obj\Debug\net7.0\ref\FirstClassFunctions.dll

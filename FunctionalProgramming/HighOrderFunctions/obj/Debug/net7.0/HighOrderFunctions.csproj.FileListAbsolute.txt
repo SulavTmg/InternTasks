@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\bin\Debug\net7.0\HighOrderFunctions.exe
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\bin\Debug\net7.0\HighOrderFunctions.deps.json
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\bin\Debug\net7.0\HighOrderFunctions.runtimeconfig.json
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\bin\Debug\net7.0\HighOrderFunctions.dll
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\bin\Debug\net7.0\HighOrderFunctions.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\HighOrderFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\HighOrderFunctions.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\HighOrderFunctions.AssemblyInfo.cs
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\HighOrderFunctions.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\HighOrderFunctions.dll
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\refint\HighOrderFunctions.dll
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\HighOrderFunctions.pdb
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\HighOrderFunctions.genruntimeconfig.cache
+C:\Users\dell\source\repos\FunctionalProgramming\HighOrderFunctions\obj\Debug\net7.0\ref\HighOrderFunctions.dll
