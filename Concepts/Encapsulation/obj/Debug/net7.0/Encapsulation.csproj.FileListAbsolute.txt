@@ -1,0 +1,14 @@
+C:\C#\InternPrac\Concepts\Encapsulation\bin\Debug\net7.0\Encapsulation.exe
+C:\C#\InternPrac\Concepts\Encapsulation\bin\Debug\net7.0\Encapsulation.deps.json
+C:\C#\InternPrac\Concepts\Encapsulation\bin\Debug\net7.0\Encapsulation.runtimeconfig.json
+C:\C#\InternPrac\Concepts\Encapsulation\bin\Debug\net7.0\Encapsulation.dll
+C:\C#\InternPrac\Concepts\Encapsulation\bin\Debug\net7.0\Encapsulation.pdb
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfoInputs.cache
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\Encapsulation.AssemblyInfo.cs
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\Encapsulation.dll
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\refint\Encapsulation.dll
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\Encapsulation.pdb
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\Encapsulation.genruntimeconfig.cache
+C:\C#\InternPrac\Concepts\Encapsulation\obj\Debug\net7.0\ref\Encapsulation.dll

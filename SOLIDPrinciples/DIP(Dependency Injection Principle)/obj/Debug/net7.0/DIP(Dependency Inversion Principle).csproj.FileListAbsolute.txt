@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Inversion Principle).exe
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Inversion Principle).deps.json
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Inversion Principle).runtimeconfig.json
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Inversion Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Inversion Principle).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Inversion Principle).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Inversion Principle).AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Inversion Principle).AssemblyInfo.cs
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Inversion Principle).csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Inversion Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\refint\DIP(Dependency Inversion Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Inversion Principle).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Inversion Principle).genruntimeconfig.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\ref\DIP(Dependency Inversion Principle).dll

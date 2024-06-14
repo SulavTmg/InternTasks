@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\bin\Debug\net7.0\OCP(OpenClosedPrinciple).exe
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\bin\Debug\net7.0\OCP(OpenClosedPrinciple).deps.json
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\bin\Debug\net7.0\OCP(OpenClosedPrinciple).runtimeconfig.json
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\bin\Debug\net7.0\OCP(OpenClosedPrinciple).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\bin\Debug\net7.0\OCP(OpenClosedPrinciple).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\OCP(OpenClosedPrinciple).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\OCP(OpenClosedPrinciple).AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\OCP(OpenClosedPrinciple).AssemblyInfo.cs
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\OCP(OpenClosedPrinciple).csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\OCP(OpenClosedPrinciple).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\refint\OCP(OpenClosedPrinciple).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\OCP(OpenClosedPrinciple).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\OCP(OpenClosedPrinciple).genruntimeconfig.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\OCP(OpenClosedPrinciple)\obj\Debug\net7.0\ref\OCP(OpenClosedPrinciple).dll

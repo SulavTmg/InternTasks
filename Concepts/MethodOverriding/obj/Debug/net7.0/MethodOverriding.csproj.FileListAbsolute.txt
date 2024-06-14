@@ -1,0 +1,15 @@
+C:\C#\InternPrac\Concepts\MethodOverriding\bin\Debug\net7.0\MethodOverriding.exe
+C:\C#\InternPrac\Concepts\MethodOverriding\bin\Debug\net7.0\MethodOverriding.deps.json
+C:\C#\InternPrac\Concepts\MethodOverriding\bin\Debug\net7.0\MethodOverriding.runtimeconfig.json
+C:\C#\InternPrac\Concepts\MethodOverriding\bin\Debug\net7.0\MethodOverriding.dll
+C:\C#\InternPrac\Concepts\MethodOverriding\bin\Debug\net7.0\MethodOverriding.pdb
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.AssemblyInfoInputs.cache
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.AssemblyInfo.cs
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.sourcelink.json
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.dll
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\refint\MethodOverriding.dll
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.pdb
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\MethodOverriding.genruntimeconfig.cache
+C:\C#\InternPrac\Concepts\MethodOverriding\obj\Debug\net7.0\ref\MethodOverriding.dll

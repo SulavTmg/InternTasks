@@ -1,0 +1,14 @@
+C:\C#\DesignPatterns\DesignPatterns\MVC\bin\Debug\net7.0\MVC.exe
+C:\C#\DesignPatterns\DesignPatterns\MVC\bin\Debug\net7.0\MVC.deps.json
+C:\C#\DesignPatterns\DesignPatterns\MVC\bin\Debug\net7.0\MVC.runtimeconfig.json
+C:\C#\DesignPatterns\DesignPatterns\MVC\bin\Debug\net7.0\MVC.dll
+C:\C#\DesignPatterns\DesignPatterns\MVC\bin\Debug\net7.0\MVC.pdb
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\MVC.AssemblyInfoInputs.cache
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\MVC.AssemblyInfo.cs
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\MVC.csproj.CoreCompileInputs.cache
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\MVC.dll
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\refint\MVC.dll
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\MVC.pdb
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\MVC.genruntimeconfig.cache
+C:\C#\DesignPatterns\DesignPatterns\MVC\obj\Debug\net7.0\ref\MVC.dll

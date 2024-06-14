@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Injection Principle).exe
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Injection Principle).deps.json
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Injection Principle).runtimeconfig.json
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Injection Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\bin\Debug\net7.0\DIP(Dependency Injection Principle).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Injection Principle).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Injection Principle).AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Injection Principle).AssemblyInfo.cs
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Injection Principle).csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Injection Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\refint\DIP(Dependency Injection Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Injection Principle).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\DIP(Dependency Injection Principle).genruntimeconfig.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\DIP(Dependency Injection Principle)\obj\Debug\net7.0\ref\DIP(Dependency Injection Principle).dll

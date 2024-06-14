@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\bin\Debug\net7.0\SRP(SingleResponsibilityPrinciple).exe
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\bin\Debug\net7.0\SRP(SingleResponsibilityPrinciple).deps.json
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\bin\Debug\net7.0\SRP(SingleResponsibilityPrinciple).runtimeconfig.json
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\bin\Debug\net7.0\SRP(SingleResponsibilityPrinciple).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\bin\Debug\net7.0\SRP(SingleResponsibilityPrinciple).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\SRP(SingleResponsibilityPrinciple).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\SRP(SingleResponsibilityPrinciple).AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\SRP(SingleResponsibilityPrinciple).AssemblyInfo.cs
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\SRP(SingleResponsibilityPrinciple).csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\SRP(SingleResponsibilityPrinciple).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\refint\SRP(SingleResponsibilityPrinciple).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\SRP(SingleResponsibilityPrinciple).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\SRP(SingleResponsibilityPrinciple).genruntimeconfig.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\SRP(SingleResponsibilityPrinciple)\obj\Debug\net7.0\ref\SRP(SingleResponsibilityPrinciple).dll

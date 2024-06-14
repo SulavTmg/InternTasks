@@ -1,0 +1,14 @@
+C:\C#\StarPatterns\Pattern3\bin\Debug\net7.0\Pattern3.exe
+C:\C#\StarPatterns\Pattern3\bin\Debug\net7.0\Pattern3.deps.json
+C:\C#\StarPatterns\Pattern3\bin\Debug\net7.0\Pattern3.runtimeconfig.json
+C:\C#\StarPatterns\Pattern3\bin\Debug\net7.0\Pattern3.dll
+C:\C#\StarPatterns\Pattern3\bin\Debug\net7.0\Pattern3.pdb
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\Pattern3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\Pattern3.AssemblyInfoInputs.cache
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\Pattern3.AssemblyInfo.cs
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\Pattern3.csproj.CoreCompileInputs.cache
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\Pattern3.dll
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\refint\Pattern3.dll
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\Pattern3.pdb
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\Pattern3.genruntimeconfig.cache
+C:\C#\StarPatterns\Pattern3\obj\Debug\net7.0\ref\Pattern3.dll

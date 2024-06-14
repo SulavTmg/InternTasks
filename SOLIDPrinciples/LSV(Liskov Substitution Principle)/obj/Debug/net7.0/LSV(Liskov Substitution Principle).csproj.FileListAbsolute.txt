@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\bin\Debug\net7.0\LSV(Liskov Substitution Principle).exe
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\bin\Debug\net7.0\LSV(Liskov Substitution Principle).deps.json
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\bin\Debug\net7.0\LSV(Liskov Substitution Principle).runtimeconfig.json
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\bin\Debug\net7.0\LSV(Liskov Substitution Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\bin\Debug\net7.0\LSV(Liskov Substitution Principle).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\LSV(Liskov Substitution Principle).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\LSV(Liskov Substitution Principle).AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\LSV(Liskov Substitution Principle).AssemblyInfo.cs
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\LSV(Liskov Substitution Principle).csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\LSV(Liskov Substitution Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\refint\LSV(Liskov Substitution Principle).dll
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\LSV(Liskov Substitution Principle).pdb
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\LSV(Liskov Substitution Principle).genruntimeconfig.cache
+C:\Users\dell\source\repos\SOLIDPrinciples\LSV(Liskov Substitution Principle)\obj\Debug\net7.0\ref\LSV(Liskov Substitution Principle).dll
