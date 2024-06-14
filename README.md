@@ -1,4 +1,4 @@
-# Functional Programming
+# Tasks
 - Concepts
 - Design Patterns
 - Functional Programming
